@@ -1,0 +1,11 @@
+{
+    "name": "Orange",
+    "description": "Filled with vitamin C great for battling flu. Juicy",
+    "image": "ipfs://bafybeicyrtgylsy2aas6w5qmp54tr3ffbv6vk6ey5dlfpdgknmfjrmzp6a/2.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fruit"
+        }
+    ]
+}

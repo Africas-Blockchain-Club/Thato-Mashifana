@@ -1,0 +1,11 @@
+{
+    "name": "Mango",
+    "description": "Juicy, messy, with a huge seed.",
+    "image": "ipfs://bafybeicyrtgylsy2aas6w5qmp54tr3ffbv6vk6ey5dlfpdgknmfjrmzp6a/1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fruit"
+        }
+    ]
+}
